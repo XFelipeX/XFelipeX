@@ -4,7 +4,7 @@ I am a student of programming at Senac University Center and a jr developer at P
 
 ---
 
-- 🌱 Fun fact: Haste is the enemy of perfection.
+- 🌱 Fun fact: Think outside the box.
 
 ---
 
