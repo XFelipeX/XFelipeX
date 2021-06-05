@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a student of programming at Senac University Center and a jr developer at PegPese Company.
+I am a student of programming at Senac University Center and a jr developer at Verticore Group.
 
 ---
 
