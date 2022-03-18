@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im a fullstack developer. Currently i am working at Verticore Group creating automations. me too make some jobs how freelancer.
+I'm a fullstack developer. Currently i am working at Verticore Group creating automations. me too make some jobs how freelancer.
 I love skateboarding 💖
 
 ---
