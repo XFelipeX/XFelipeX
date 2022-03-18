@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am a student of programming at Senac University Center and a jr developer at Verticore Group.
+Im a fullstack developer. Currently i am working at Verticore Group creating automations. me too make some jobs how freelancer.
+I love skateboarding 💖
 
 ---
 
