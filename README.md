@@ -1,45 +1,83 @@
-## Hi there 👋
+
+<h1 align="center"><b>Hi , I'm Felipe Dias </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<br>
+	
+
+## <picture><img src="files/gifs/about_me.gif" style="width: 50px;"></picture> **About me**
 
 
-I'm a full-stack developer. Currently, I am working at 4handsbot, creating automations. I also take on some freelance jobs. I love skateboarding. 💖
+<br>
 
----
+- A passionate self-taught full stack developer
+- Working at 4handsbot creating automations (RPA)
+- Freelancing at Workana
+- Currently studying Full Stack Development at FIAP - Pós-Tech
+- Skateboarding to challenge myself and improve
+- In my free time, currently searching for open source projects to contribute to
+- Personal website [link](https://www.felipecode.com.br)
 
-- 🌱 Fun fact: Think outside the box.
+<br>
+⏰ I am most active from Monday to Friday, 9 AM to 7 PM Brasilia Time.
+<br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## ⚡ Technologies
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-fff?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Php](https://img.shields.io/badge/-PHP-7377ad?style=flat-square&logo=php&logoColor=white)
-![Mysql](https://img.shields.io/badge/-MySQL-2687cf?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-StyledComponents-000000?style=flat-square&logo=Styled-components&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-2a2d38?style=flat-square&logo=Electron&logoColor=white)
-![VB](https://img.shields.io/badge/-VB-181717?style=flat-square&logo=VB&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-square&logo=figma&logoColor=white)
-![UIPath](https://img.shields.io/badge/-UIPath-0052CC?style=flat-square&logo=UIPath&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,bash,powershell,gcp,git,aws,css,discord,docker,postgres,pug,express,figma,firebase,sqlite,github,html,java,php,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,bootstrap,eclipse,electron,githubactions,graphql,hibernate,jest,jquery,laravel,maven,mint,notion,npm,regex,spring,styledcomponents,selenium,wordpress&perline=14" />
+  </a>
+</p>
 
-<div>
- <img width="46%" src="https://github-readme-stats.vercel.app/api?username=xfelipex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFelipeX&layout=compact&show_icons=true&theme=dark" alt="Langs" />
+<br>
+<br>
+
+-----
+
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="left">
+
+<a href="https://github.com/XFelipeX/">
+  <img src="https://github-readme-stats.vercel.app/api?username=XFelipeX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" style="margin-right:1.5rem;  vertical-align: top;"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=XFelipeX&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="XFelipeX"/>
+</a>
 </div>
 
-### Talk to me 😃
+<br>
+<br>
 
-[![Linkedin: felipe](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-dias-1a6302181/)](https://www.linkedin.com/in/felipe-dias-1a6302181/)
+
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="files/gifs/handshake.gif" style="width: 80px;"></img>
+<br>
+
+<div align='left'>
+
+<ul>
+
+
+<a href="https://www.linkedin.com/in/felipe-dias-1a6302181/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  XFelipeX-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+
+<br>
+
+<a href="mailto:contato@felipecode.com.br" target="_blank">
+<img src="https://img.shields.io/badge/mail:  Felipe-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
