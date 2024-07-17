@@ -4,7 +4,7 @@
 <br>
 	
 
-## <picture><img src="files/gifs/about_me.gif" style="width: 50px;"></picture> **About me**
+## <img src="files/gifs/about_me.gif" style="width: 50px;" /> **About me**
 
 
 <br>
