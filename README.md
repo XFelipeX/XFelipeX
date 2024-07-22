@@ -66,14 +66,7 @@
 
 
 <a href="https://www.linkedin.com/in/felipe-dias-1a6302181/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  XFelipeX-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-
-<br>
-
-<a href="mailto:contato@felipecode.com.br" target="_blank">
-<img src="https://img.shields.io/badge/mail:  Felipe-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin:  Felipe-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 </div>
