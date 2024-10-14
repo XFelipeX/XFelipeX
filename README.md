@@ -12,9 +12,8 @@
 - A passionate self-taught full stack developer
 - Working at 4handsbot creating automations (RPA)
 - Freelancing at Workana
-- Currently studying Full Stack Development at FIAP - Pós-Tech
+- Currently studying Full Stack Development at FIAP
 - Skateboarding to challenge myself and improve
-- In my free time, currently searching for open source projects to contribute to
 - Personal website [link](https://www.felipecode.com.br)
 
 <br>
@@ -28,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,bash,powershell,gcp,git,aws,css,discord,docker,postgres,pug,express,figma,firebase,sqlite,github,html,java,php,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,bootstrap,eclipse,electron,githubactions,graphql,hibernate,jest,jquery,laravel,maven,mint,notion,npm,regex,spring,styledcomponents,selenium,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vim,bash,powershell,gcp,git,aws,css,discord,docker,postgres,express,figma,sqlite,github,html,java,php,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,bootstrap,eclipse,githubactions,graphql,hibernate,jest,jquery,laravel,maven,mint,notion,npm,regex,spring,styledcomponents,selenium,wordpress&perline=14" />
   </a>
 </p>
 
