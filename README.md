@@ -11,9 +11,7 @@
 
 - A passionate self-taught full stack developer
 - Working at 4handsbot creating automations (RPA)
-- Freelancing at Workana
 - Currently studying Full Stack Development at FIAP
-- Skateboarding to challenge myself and improve
 - Personal website [link](https://www.felipecode.com.br)
 
 <br>
@@ -27,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,bash,powershell,gcp,git,aws,css,discord,docker,postgres,express,figma,sqlite,github,html,java,php,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,bootstrap,eclipse,githubactions,graphql,hibernate,jest,jquery,laravel,maven,mint,notion,npm,regex,spring,styledcomponents,selenium,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,gcp,git,aws,css,docker,postgres,express,sqlite,github,html,java,php,js,linux,materialui,nginx,mongodb,mysql,nodejs,py,react,redux,tailwind,ts,kubernetes,bootstrap,githubactions,jest,jquery,maven,npm,regex,spring,styledcomponents,wordpress&perline=14" />
   </a>
 </p>
 
@@ -35,22 +33,6 @@
 <br>
 
 -----
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="left">
-
-<a href="https://github.com/XFelipeX/">
-  <img src="https://github-readme-stats.vercel.app/api?username=XFelipeX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" style="margin-right:1.5rem;  vertical-align: top;"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=XFelipeX&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="XFelipeX"/>
-</a>
-</div>
-
-<br>
-<br>
-
 
 
 <br>
