@@ -10,7 +10,7 @@
 <br>
 
 - A passionate self-taught full stack developer
-- Working at 4handsbot creating automations (RPA)
+- Working at Multicrédito
 - Currently studying Full Stack Development at FIAP
 - Personal website [link](https://www.felipecode.com.br)
 
