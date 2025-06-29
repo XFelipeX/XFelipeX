@@ -11,7 +11,6 @@
 
 - A passionate self-taught full stack developer
 - Working at MultiCrédito
-- Currently studying Full Stack Development at FIAP
 - Personal website [link](https://www.felipecode.com.br)
 
 <br>
